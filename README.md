@@ -1,6 +1,6 @@
 # Affiliation
 
-This repository contains code for the paper entitled "Ultrahigh-capacity and porosity Ranunculus-like MgO adsorbent for Phosphorus Treatment from aqueous solutions and Simulation with Deep Belief Network" authored by Duc Anh Nguyen, Viet Bac Nguyen, and Am Jang from the Department of Global Smart City and the Department of Electrical and Computer Engineering, Sungkyunkwan University (SKKU), 2066, Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do 16419, Republic of Korea. The published article can be found on [].
+This repository contains code for the paper entitled "Ultrahigh-capacity and porosity Ranunculus-like MgO adsorbent for Phosphorus Treatment from aqueous solutions and Simulation with Deep Belief Network" authored by Duc Anh Nguyen and Am Jang from the Department of Global Smart City, Sungkyunkwan University (SKKU), 2066, Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do 16419, Republic of Korea. The published article can be found on [].
 
 ## Introduction
 
