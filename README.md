@@ -1,6 +1,6 @@
 # Affiliation
 
-This repository contains code for the paper entitled "Ultrahigh-capacity and porosity Ranunculus-like MgO adsorbent for Phosphorus Treatment from aqueous solutions and Simulation with Deep Belief Network" authored by Duc Anh Nguyen and Am Jang from the Department of Global Smart City, Sungkyunkwan University (SKKU), 2066, Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do 16419, Republic of Korea. The published article can be found on [].
+This repository contains code for the paper entitled "Super-sorption Capacity of Phosphorus from aqueous solutions by Ultrahigh-capacity and Porosity Ranunculus-like MgO" authored by Duc Anh Nguyen and Am Jang from the Department of Global Smart City, Sungkyunkwan University (SKKU), 2066, Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do 16419, Republic of Korea. The published article can be found on [].
 
 ## Introduction
 
@@ -18,7 +18,7 @@ Due to the rapid growth in the manufacturing industries, phosphorus (P) contamin
 
 ## Findings
 
-A total of 10 machine learning (ML) models were further applied to simultaneously predict multi-criteria (i.e., sorption capacity, removal efficiency, final pH, and Mg leakage) affected by 15 input features. Traditional ML models and Deep Neural Networks initially face challenges with poor accuracy, especially for removal efficiency. However, the breakthrough comes with applying Deep Belief Network (DBN) with unparalleled prediction performance (MAE=1.3289, RMSE=5.2552, R2=0.9926) across all output features, surpassing all current studies using 4 times higher number of data points for predicting only one output factor. This captivating MO6 and DBN model are believed to open immense horizons to transformative applications, especially for P removal in the near future.
+A total of 10 machine learning (ML) models were applied to simultaneously predict multi-criteria (i.e., sorption capacity, removal efficiency, final pH, and Mg leakage) affected by 15 input features. Traditional ML models and Deep Neural Networks initially face challenges with poor accuracy, especially for removal efficiency. However, the breakthrough comes with applying Deep Belief Network (DBN) with unparalleled prediction performance (MAE = 1.3289, RMSE = 5.2555, R2 = 0.9926) across all output features, surpassing all current studies using 4 times higher number of data points for predicting only one output factor. This captivating MO6 and DBN model are believed to open immense horizons to transformative applications, especially for P removal in the near future.
 
 ## Correspondence
 
